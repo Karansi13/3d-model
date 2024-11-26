@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-three/drei": "^9.117.3",
+    "@react-three/fiber": "^8.17.10",
+    "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "three": "^0.170.0"
   },
   "devDependencies": {
     "postcss": "^8",

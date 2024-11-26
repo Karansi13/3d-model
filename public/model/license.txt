@@ -1,0 +1,11 @@
+Model Information:
+* title:	Morellete - Retro Bike 80cc - Stage 1
+* source:	https://sketchfab.com/3d-models/morellete-retro-bike-80cc-stage-1-f43f1655cd3549fdb265f86c0db7b736
+* author:	Scuderia Morello (https://sketchfab.com/scudmorello)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Morellete - Retro Bike 80cc - Stage 1" (https://sketchfab.com/3d-models/morellete-retro-bike-80cc-stage-1-f43f1655cd3549fdb265f86c0db7b736) by Scuderia Morello (https://sketchfab.com/scudmorello) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
